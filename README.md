@@ -13,4 +13,4 @@
 <li>DataLinker encourages implementers to use OAUTH 2 and to provide farmers and other rural professionals with control over the data they generate.</li>
 </ul>
 <a href="https://www.datalinker.org/app/register" class="btn" style="align-items:center">Get started with DataLinker</a>
-<a href="schemas.md" class="btn" style="align-items:center">Browse the messages</a>
+<a href="schemas" class="btn" style="align-items:center">Browse the messages</a>
