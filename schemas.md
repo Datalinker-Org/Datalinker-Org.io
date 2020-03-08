@@ -1,4 +1,4 @@
-#Data Schemas
+# Data Schemas
 
 [Animal-Data](https://github.com/Datalinker-Org/Animal-Data)
 
