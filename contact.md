@@ -6,4 +6,4 @@ Phone: +64-7-8570820
 
 email: <a href = "mailto:info@rezare.com">info@rezare.com</a>
 
-[Visit www.rezare.com](https://rezare.com/contact-us/)
+Visit: [www.rezare.com](https://rezare.com/contact-us/)
