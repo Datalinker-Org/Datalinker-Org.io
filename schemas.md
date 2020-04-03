@@ -20,6 +20,6 @@ Farm profile, financial and livestock transactions.
 
 Pasture measurement, growth, and utilisation records.
 
-## [Spatial](https://github.com/Datalinker-Org/Spatial/blob/master/README.md)
+## [Spatial Data](https://github.com/Datalinker-Org/Spatial/blob/master/README.md)
 
 Spatial data relevant to agriculture, including field and paddock definitions, hazards, waterways and other layers.
