@@ -12,5 +12,5 @@
 <li>DataLinker’s registry allows solution providers to discover other implementers, and the terms and conditions for access to their APIs.</li>
 <li>DataLinker encourages implementers to use OAUTH 2 and to provide farmers and other rural professionals with control over the data they generate.</li>
 </ul>
-<a href="https://www.datalinker.org/app/register" class="btn" style="align-items:center">Get started with DataLinker</a>
+<a href="https://app.datalinker.org/app/register" class="btn" style="align-items:center">Get started with DataLinker</a>
 <a href="schemas" class="btn" style="align-items:center">Data Schemas</a>
