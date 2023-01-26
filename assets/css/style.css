@@ -10,7 +10,6 @@ html {
 
 body {
     margin: 0;
-    color: #1a1a1a;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
@@ -467,10 +466,10 @@ td, th {
 body {
     padding: 0;
     margin: 0;
-    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Manrope', "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 1.5;
-    color: #186B89
+    color: #1a1a1a;
 }
 
 a {
