@@ -19,6 +19,9 @@ body {
     position: relative;
     display: flex;
 }
+.column{
+    padding: 1rem;
+}
 .row > .column.two {
     flex-wrap: wrap;
     flex: 1 1 calc(100% / 2);
