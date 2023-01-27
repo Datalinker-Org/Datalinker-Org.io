@@ -23,6 +23,16 @@ body {
     flex-wrap: wrap;
     flex: 1 1 calc(100% / 2);
 }
+.categories{
+    position: relative;
+    display: flex;
+}
+ul.categories > li.catagory{
+    flex-wrap: wrap;
+    flex: 1 1 calc(100% / 4);
+}
+
+    
 /*---end of overview styling---*/
 
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
