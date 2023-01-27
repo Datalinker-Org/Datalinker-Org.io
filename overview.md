@@ -5,7 +5,7 @@
     <div class="column two">
         <img src="images/MPI-Farm-data-model-2.png" alt="Farm Data diagram" width="100%">
     </div>
-    <div class="column two">
+    <div class="column col-2">
         <p>Descriptive text can be added here if needed</p>
         <ul class="categories">
             <li class="category"><a href="#">Activity</a></li>
@@ -21,7 +21,7 @@
             <li class="category"><a href="#">Relationship or Roles</a></li>      
         </ul>
     </div>
-    <div class="column two">
+    <div class="column col-2">
         <a href="https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/README.md" class="btn" style="align-items:center">View the Farm Data Standards</a>
     </div>
 </div>
