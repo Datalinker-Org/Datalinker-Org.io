@@ -32,7 +32,7 @@ body {
     flex-wrap: wrap !important;
 }
 .categories > li.category{
-    flex: 1 1 calc(100% / 4) !important;
+    flex: 1 1 calc(100% / 2) !important;
 }
 li.category{
     list-style: none;
