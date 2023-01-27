@@ -5,8 +5,8 @@
     <div class="column two">
         <h1>Overview</h1>
         <p>[Descriptive text can be added here if needed]</p>
-        <ul>
-            <li><a href="#">Activity</a></li>
+        <ul class="categories">
+            <li class="category"><a href="#">Activity</a></li>
             <li></li>
         </ul>
     </div>
