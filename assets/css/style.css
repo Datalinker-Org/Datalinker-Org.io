@@ -28,8 +28,8 @@ ul.categories{
     display: flex;
 }
 ul.categories > li.catagory{
-    flex-wrap: wrap;
-    flex: 1 1 calc(100% / 4);
+    flex-wrap: wrap !important;
+    flex: 1 1 calc(100% / 4) !important;
 }
 
     
