@@ -23,7 +23,7 @@ body {
     flex-wrap: wrap;
     flex: 1 1 calc(100% / 2);
 }
-.categories{
+ul.categories{
     position: relative;
     display: flex;
 }
