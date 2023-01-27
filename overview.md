@@ -4,7 +4,7 @@
     </div>
     <div class="column two">
         <h1>Overview</h1>
-        <p>[Descriptive text can be added here if needed]</p>
+        <p>Descriptive text can be added here if needed</p>
         <ul class="categories">
             <li class="category"><a href="#">Activity</a></li>
             <li class="category"><a href="#">Crop Related</a></li>
