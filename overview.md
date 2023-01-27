@@ -19,6 +19,7 @@
             <li class="category"><a href="#">Relationship or Roles</a></li>      
         </ul>
     </div>
+    <a href="https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/README.md" class="btn" style="align-items:center">View the Farm Data Standards</a>
 </div>
     
 
