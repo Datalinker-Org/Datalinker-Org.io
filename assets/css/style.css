@@ -13,6 +13,18 @@ body {
     margin: 0;
 }
 
+/*Overview styling*/
+.row{
+    margin: 0 auto;
+    position: relative;
+}
+.row > .column.two {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1 1 calc(100% / 2);
+}
+/*---end of overview styling---*/
+
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
     display: block
 }
@@ -500,19 +512,7 @@ a {
     .btn + .btn {
         margin-left: 1rem
     }
-/*Overview styling*/
-.row{
-    margin: 0 auto;
-    position: relative;
-}
-.row > .column{
-    display: flex;
-    flex-wrap: wrap;
-}
-.row > .column.two {
-    flex: 1 1 calc(100% / 2);
-}
-/*---end of overview styling---*/
+
 @media screen and (min-width: 64em) {
     .btn {
         padding: 0.75rem 1rem
