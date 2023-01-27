@@ -1,5 +1,5 @@
 <div class="row">
-            <h1>Overview</h1>
+            <h1 style="text-align:center;">Overview</h1>
 </div>
 <div class="row">
     <div class="column two">
