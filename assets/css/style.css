@@ -18,19 +18,20 @@ body {
     margin: 0 auto;
     position: relative;
     display: flex;
+    flex-wrap: wrap;
 }
 .column{
     padding: 1rem;
 }
 .row > .column.two {
-    flex-wrap: wrap;
     flex: 1 1 calc(100% / 2);
 }
 .categories{
     position: relative;
+    display: flex;
+    flex-wrap: wrap !important;
 }
 .categories > li.category{
-    flex-wrap: wrap !important;
     flex: 1 1 calc(100% / 4) !important;
 }
 li.category{
