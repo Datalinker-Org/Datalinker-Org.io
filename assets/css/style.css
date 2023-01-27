@@ -500,7 +500,19 @@ a {
     .btn + .btn {
         margin-left: 1rem
     }
-
+/*Overview styling*/
+.row{
+    margin: 0 auto;
+    position: relative;
+}
+.row > .column{
+    display: flex;
+    flex-wrap: wrap;
+}
+.row > .column.two {
+    flex: 1 1 calc(100% / 2);
+}
+/*---end of overview styling---*/
 @media screen and (min-width: 64em) {
     .btn {
         padding: 0.75rem 1rem
