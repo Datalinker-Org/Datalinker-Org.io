@@ -17,9 +17,9 @@ body {
 .row{
     margin: 0 auto;
     position: relative;
+    display: flex;
 }
 .row > .column.two {
-    display: flex;
     flex-wrap: wrap;
     flex: 1 1 calc(100% / 2);
 }
