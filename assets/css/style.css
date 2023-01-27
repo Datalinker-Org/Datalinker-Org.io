@@ -23,11 +23,11 @@ body {
     flex-wrap: wrap;
     flex: 1 1 calc(100% / 2);
 }
-ul.categories{
+.categories{
     position: relative;
     display: flex;
 }
-ul.categories > li.catagory{
+.categories > li.category{
     flex-wrap: wrap !important;
     flex: 1 1 calc(100% / 4) !important;
 }
