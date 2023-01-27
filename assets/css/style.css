@@ -23,8 +23,14 @@ body {
 .column{
     padding: 1rem;
 }
-.row > .column.two {
-    flex: 1 1 calc(100% / 2);
+.col-1{
+    width: 100%;
+}
+.col-2{
+    width: 50%;
+}
+.col-3{
+    33.33%
 }
 .categories{
     position: relative;
