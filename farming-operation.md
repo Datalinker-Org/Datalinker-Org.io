@@ -1,5 +1,5 @@
 <ul class="categories">
-  <a href="#"><li class="category">Activity</li></a>
+  <li class="category"><a href="#">Activity</a></li>
   <li class="category"><a href="#">Crop Related</a></li>
   <li class="category"><a href="#">Farming Operation</a></li>
   <li class="category"><a href="#">Fertiliser</a></li>
