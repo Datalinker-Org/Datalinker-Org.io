@@ -40,8 +40,19 @@ body {
 .categories > li.category{
     flex: 1 1 calc(100% / 1) !important;
 }
-li.category{
+ul.categories, ul.sub-menu{
     list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li.menu-item{
+    float: left;
+}
+li.menu-item a{
+    display: block;
+    padding: 1rem;
+    background-color: pink;
 }
     
 /*---end of overview styling---*/
