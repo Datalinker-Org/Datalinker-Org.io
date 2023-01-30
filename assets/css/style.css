@@ -70,6 +70,7 @@ ul.categories, ul.sub-menu{
 }
 li.menu-item{
     float: left;
+    padding: 0 0.25rem;
 }
 li.menu-item a{
     display: block;
