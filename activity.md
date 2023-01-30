@@ -1,7 +1,7 @@
 <ul class="sub-menu">
-  <li class="menu-item"><a href="#">Activity</a></li>
+  <li class="menu-item"><a class="active" href="#">Activity</a></li>
   <li class="menu-item"><a href="#">Crop Related</a></li>
-  <li class="menu-item"><a class="active" href="#">Farming Operation</a></li>
+  <li class="menu-item"><a href="#">Farming Operation</a></li>
   <li class="menu-item"><a href="#">Fertiliser</a></li>
   <li class="menu-item"><a href="#">Irrigation</a></li>
   <li class="menu-item"><a href="#">Livestock Related</a></li>
