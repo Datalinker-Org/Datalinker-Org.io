@@ -52,7 +52,16 @@ li.menu-item{
 li.menu-item a{
     display: block;
     padding: 1rem;
-    background-color: pink;
+    background-color: #A4E2EA;
+    text-decoration: none;
+    border-radius: 4rem;
+    color: #2D2D2D;
+}
+li.menu-item a:hover{
+    background-color: #86D3E3;
+}
+li.menu-item a.active{
+    background-color: #86D3E3;
 }
     
 /*---end of overview styling---*/
