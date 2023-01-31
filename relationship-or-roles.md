@@ -20,19 +20,10 @@ farmers and to be used more effectively by solution and service providers.</p>
 
 | Common name  | Definition | Source |
 | ------------- | ------------- | ------------- |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
+| Farm Operator | 1. Farm operator means an individual or entity actually managing and farming land owned by one or more farm owners.<br>2. Farm operator means an individual or legal entity other than the owner, lessee, or sublessee that performs any portion of the farming operation. | [View](https://www.lawinsider.com/dictionary/farm-operator){:target="_blank"} |
+| Farm Advisor | 1. Advise farmers, growers and organisations on business, production and land management solutions. <br>2. Assist farmers and growers in developing and implementing business plans.  | [View](https://www.wintec.ac.nz/future-you/explore/jobs/agriculture-and-horticulture/agricultural-horticultural-consultant){:target="_blank"} |
+| Customer Name | The name of the customer the application is being processed for. | [View](Farm-Data-Standards/LADS_Land-Applications-Data-Dictionary.md at master · Datalinker-Org/Farm-Data-Standards · GitHub){:target="_blank"} |
+| Operator ID | Identifier to represent the operator (defined within system or interchange scope). | [View](Farm-Data-Standards/LADS_Land-Applications-Data-Dictionary.md at master · Datalinker-Org/Farm-Data-Standards · GitHub){:target="_blank"} |
+| Operator Name | Operator planned to complete the job. | [View](Farm-Data-Standards/LADS_Land-Applications-Data-Dictionary.md at master · Datalinker-Org/Farm-Data-Standards · GitHub){:target="_blank"} |
+
 
