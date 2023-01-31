@@ -19,6 +19,7 @@
 farmers and to be used more effectively by solution and service providers.</p>
 
 | Common name  | Definition | Source |
+| ------------- | ------------- | ------------- |
 | ------------- | ------------- | [View](){:target="_blank"} |
 | ------------- | ------------- | [View](){:target="_blank"} |
 | ------------- | ------------- | [View](){:target="_blank"} |
