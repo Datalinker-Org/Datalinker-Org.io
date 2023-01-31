@@ -1,5 +1,5 @@
 <div class="row">
-            <h1 style="text-align:center;">Overview</h1>
+            <h1 style="text-align:center; width:100%;">Overview</h1>
 </div>
 <hr>
 <div class="row">
