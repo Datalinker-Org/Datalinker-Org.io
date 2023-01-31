@@ -1,16 +1,16 @@
 <h4>Data Glossary</h4>
 <ul class="sub-menu">
-  <li class="menu-item"><a class="active" href="/activity">Activity</a></li>
-  <li class="menu-item"><a href="/crop-related">Crop Related</a></li>
-  <li class="menu-item"><a href="/farming-operation">Farming Operation</a></li>
-  <li class="menu-item"><a href="/fertiliser">Fertiliser</a></li>
-  <li class="menu-item"><a href="/irrigation">Irrigation</a></li>
-  <li class="menu-item"><a href="/livestock-related">Livestock Related</a></li>
-  <li class="menu-item"><a href="/natural-capital">Natural Capital</a></li>
-  <li class="menu-item"><a href="/operational-data">Operational Data</a></li>
-  <li class="menu-item"><a href="/organisation">Organisation</a></li>
-  <li class="menu-item"><a href="/output-results">Output Results</a></li>
-  <li class="menu-item"><a href="/relationship-or-roles">Relationship or Roles</a></li>      
+  <li class="menu-item"><a class="active" href="https://www.datalinker.org/activity">Activity</a></li>
+  <li class="menu-item"><a href="https://www.datalinker.org/crop-related">Crop Related</a></li>
+  <li class="menu-item"><a href="https://www.datalinker.org/farming-operation">Farming Operation</a></li>
+  <li class="menu-item"><a href="https://www.datalinker.org/fertiliser">Fertiliser</a></li>
+  <li class="menu-item"><a href="https://www.datalinker.org/irrigation">Irrigation</a></li>
+  <li class="menu-item"><a href="https://www.datalinker.org/livestock-related">Livestock Related</a></li>
+  <li class="menu-item"><a href="https://www.datalinker.org/natural-capital">Natural Capital</a></li>
+  <li class="menu-item"><a href="https://www.datalinker.org/operational-data">Operational Data</a></li>
+  <li class="menu-item"><a href="https://www.datalinker.org/organisation">Organisation</a></li>
+  <li class="menu-item"><a href="https://www.datalinker.org/output-results">Output Results</a></li>
+  <li class="menu-item"><a href="https://www.datalinker.org/relationship-or-roles">Relationship or Roles</a></li>      
 </ul>
 <hr>
 
