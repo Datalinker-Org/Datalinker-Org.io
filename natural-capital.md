@@ -5,8 +5,8 @@
   <li class="menu-item"><a href="/farming-operation">Farming Operation</a></li>
   <li class="menu-item"><a href="/fertiliser">Fertiliser</a></li>
   <li class="menu-item"><a href="/irrigation">Irrigation</a></li>
-  <li class="menu-item"><a class="active" href="/livestock-related">Livestock Related</a></li>
-  <li class="menu-item"><a href="/natural-capital">Natural Capital</a></li>
+  <li class="menu-item"><a href="/livestock-related">Livestock Related</a></li>
+  <li class="menu-item"><a class="active" href="/natural-capital">Natural Capital</a></li>
   <li class="menu-item"><a href="/operational-data">Operational Data</a></li>
   <li class="menu-item"><a href="/organisation">Organisation</a></li>
   <li class="menu-item"><a href="/output-results#">Output Results</a></li>
