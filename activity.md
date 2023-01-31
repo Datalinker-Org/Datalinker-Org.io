@@ -12,6 +12,7 @@
   <li class="menu-item"><a href="#">Output Results</a></li>
   <li class="menu-item"><a href="#">Relationship or Roles</a></li>      
 </ul>
+<hr<
 
 <h2 id="datalinker">Activity</h2>
 <p>The Farm Data Standards and DataLinker were developed as separate initiatives to help agricultural data be more accessible for 
