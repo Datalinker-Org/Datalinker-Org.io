@@ -1,7 +1,7 @@
 <div class="row">
             <h1 style="text-align:center;">Overview</h1>
 </div>
-</hr>
+<hr>
 <div class="row">\
 	<div class="column col-6">
 			<h2> Title goes here </h2>
@@ -13,7 +13,7 @@
 		<img src="images/MPI-Farm-data-model-2.png" alt="Farm Data diagram" width="100%">
     </div>
 </div>
-</hr>
+<hr>
 <div class="row">
 	<div class="column col-6 alternate">
 		<h2> Title goes here </h2>
