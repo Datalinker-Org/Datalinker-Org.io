@@ -1,4 +1,4 @@
-<h5>Data Glossary</h5>
+<h4>Data Glossary</h4>
 <ul class="sub-menu">
   <li class="menu-item"><a href="/activity">Activity</a></li>
   <li class="menu-item"><a href="/crop-related">Crop Related</a></li>
@@ -9,8 +9,8 @@
   <li class="menu-item"><a href="/natural-capital">Natural Capital</a></li>
   <li class="menu-item"><a href="/operational-data">Operational Data</a></li>
   <li class="menu-item"><a href="/organisation">Organisation</a></li>
-  <li class="menu-item"><a href="/output-results#">Output Results</a></li>
-  <li class="menu-item"><a href="/relationshio-or-roles">Relationship or Roles</a></li>      
+  <li class="menu-item"><a href="/output-results">Output Results</a></li>
+  <li class="menu-item"><a href="/relationship-or-roles">Relationship or Roles</a></li>      
 </ul>
 <hr>
 
