@@ -14,11 +14,15 @@ body {
 }
 
 /*Overview styling*/
+h1, h2, h3, h4, h5, h6{
+    font-weight: 600;
+}
+
 .row{
     content: "";
     clear: both;
     display: table;
-/*     margin: 0 auto;
+/*  margin: 0 auto;
     position: relative;
     display: flex;
     flex-wrap: wrap; */
