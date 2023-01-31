@@ -2,7 +2,7 @@
             <h1 style="text-align:center;">Overview</h1>
 </div>
 <hr>
-<div class="row">\
+<div class="row">
 	<div class="column col-6">
 			<h2> Title goes here </h2>
                 <p>Descriptive text can be added here if needed</p>
