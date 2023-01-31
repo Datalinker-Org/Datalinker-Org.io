@@ -20,11 +20,7 @@ farmers and to be used more effectively by solution and service providers.</p>
 
 | Common name  | Definition | Source |
 | ------------- | ------------- | ------------- |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
-| ------------- | ------------- | [View](){:target="_blank"} |
+| Growing | The act of preparing land and growing crops on it, or the act of growing a particular crop | - |
+| Crop Selection | Crop selection is the act of choosing which crops to grow | [View](https://www.google.com/){:target="_blank"} |
+| Harvesting | Harvesting is the process of gathering a ripe crop from the fields. | [View](https://en.wikipedia.org/wiki/Harvest){:target="_blank"} |
 
