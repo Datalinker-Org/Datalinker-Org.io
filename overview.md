@@ -6,7 +6,7 @@
 	<div class="column col-6">
 			<h2> Title goes here </h2>
                 <p>Descriptive text can be added here if needed</p>
-                <a href="/overview" class="btn" style="align-items:center">View Data Glossary</a>
+                <a href="/activity" class="btn" style="align-items:center">View Data Glossary</a>
                 <a href="https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/README.md" class="btn" style="align-items:center">View the Farm Data Standards</a>
 	</div>
     <div class="column col-6">
@@ -18,7 +18,6 @@
 	<div class="column col-6 alternate">
 		<h2> Title goes here </h2>
 		<p>Descriptive text can be added here if needed</p>
-		<a href="/overview" class="btn" style="align-items:center">View Data Glossary</a>
 	</div>
     <div class="column col-6">
         <img src="images/Farm-data-model-1.png" alt="Farm Data diagram" width="100%">
