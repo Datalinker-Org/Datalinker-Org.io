@@ -21,7 +21,8 @@ h1, h2, h3, h4, h5, h6{
 .row{
     content: "";
     clear: both;
-    display: table;
+    display: flex;
+    aligh-items: middle;
 /*  margin: 0 auto;
     position: relative;
     display: flex;
