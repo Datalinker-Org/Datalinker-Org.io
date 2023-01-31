@@ -85,7 +85,8 @@ li.menu-item a:hover{
     background-color: #86D3E3;
 }
 li.menu-item a.active{
-    background-color: #86D3E3;
+    background-color: #1C6C8A;
+    color: #fafafa;
 }
     
 /*---end of overview styling---*/
