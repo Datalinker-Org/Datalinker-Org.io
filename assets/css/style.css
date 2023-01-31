@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6{
     content: "";
     clear: both;
     display: flex;
-    aligh-items: middle;
+    align-items: center;
 /*  margin: 0 auto;
     position: relative;
     display: flex;
