@@ -609,6 +609,9 @@ a {
         padding: 0.6rem 0.9rem;
         font-size: 0.9rem
     }
+    .diagram{
+        width: 80%;
+    }
 }
 
 @media screen and (max-width: 42em) {
@@ -622,7 +625,13 @@ a {
         .btn + .btn {
             margin-top: 1rem;
             margin-left: 0
-        }
+    }
+    .diagram{
+        width: 100%;
+    }
+}
+.diagram{
+    width: 70%;
 }
 .menu-btn {
     display: inline-block;
