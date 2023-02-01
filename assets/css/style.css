@@ -93,6 +93,19 @@ li.menu-item a.active{
     background-color: #1C6C8A;
     color: #fafafa;
 }
+ @media screen and (max-width: 42em) {
+     .img-s{
+         width: 100%;
+     }
+{
+ @media screen and (max-width: 48em) {
+     .img-m{
+         width: 80%;
+     }
+}
+.img-lg{
+    width: 70%;
+}
     
 /*---end of overview styling---*/
 
@@ -571,6 +584,7 @@ a {
     color: #186B89; /*rgba(255,255,255,0.7);*/
     background-color: #ffe699; /* #d9e6f2; /*rgba(255,255,255,0.08);*/
     border-radius: 0.3rem;
+    text-align: center;
 }
 
     .btn:hover {
