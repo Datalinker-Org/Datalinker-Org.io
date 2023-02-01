@@ -3,7 +3,7 @@
 <h2>Farm Data Standards</h2>
 <p>The farm data standards are a set of common data vocabularies or data dictionaries that assist agribusinesses, supply chain and industry organisations, and technology vendors to develop tools and solutions that leverage farm data.</p>
 <p>Technologists may use the information in the Farm Data Standards in the design of their software or databases, but it is particularly encouraged as a way of making data reusable across applications. Widespread alignment with the standards will mean that farmers can spend less time entering data for different farm solutions, and more time using the insights from these solutions to make better decisions on their farms.</p>
-<a href="https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/overview.md" class="btn" style="align-items:center">Overview</a>
+<a href="https://www.datalinker.org/overview" class="btn" style="align-items:center">Overview</a>
 <h2>DataLinker</h2>
 <p>DataLinker supports organisations and solution developers to share agricultural data more effectively:</p>
 <ul>
