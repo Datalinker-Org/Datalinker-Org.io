@@ -598,9 +598,13 @@ a {
         margin-left: 1rem
     }
 
+
 @media screen and (min-width: 64em) {
     .btn {
         padding: 0.75rem 1rem
+    }
+    .diagram{
+        width: 70%;
     }
 }
 
@@ -630,9 +634,7 @@ a {
         width: 100%;
     }
 }
-.diagram{
-    width: 70%;
-}
+
 .menu-btn {
     display: inline-block;
     color: #186B89; /*rgba(255,255,255,0.7);*/
