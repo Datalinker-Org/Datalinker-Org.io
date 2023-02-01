@@ -93,7 +93,7 @@ li.menu-item a.active{
     background-color: #1C6C8A;
     color: #fafafa;
 }
- @media screen and (max-width: 42em) {
+/*  @media screen and (max-width: 42em) {
      .img-s{
          width: 100%;
      }
@@ -105,7 +105,7 @@ li.menu-item a.active{
 }
 .img-lg{
     width: 70%;
-}
+} */
     
 /*---end of overview styling---*/
 
