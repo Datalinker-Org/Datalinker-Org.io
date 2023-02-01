@@ -15,8 +15,7 @@
 <hr>
 
 <h2 id="datalinker">Output Results</h2>
-<p>The Farm Data Standards and DataLinker were developed as separate initiatives to help agricultural data be more accessible for 
-farmers and to be used more effectively by solution and service providers.</p>
+<p></p>
 
 | Common name  | Definition | Source |
 | ------------- | ------------- | ------------- |
