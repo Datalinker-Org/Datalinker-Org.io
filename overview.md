@@ -10,5 +10,5 @@
 
 <h2> Non-spatial features relationship </h2>
 <p>The figure below shows how spatial entities have relationship with Non-spatial entities.</p>
-<img src="images/Farm-data-model-1.png" alt="Farm Data diagram" class="diagram">
+<img src="images/Farm-data-model-1v2.png" alt="Farm Data diagram" class="diagram">
 
