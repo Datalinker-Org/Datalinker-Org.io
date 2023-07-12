@@ -3,7 +3,7 @@
 The specifications on this web site started life as the **New Zealand Farm Data Standards**, an early effort by the New Zealand (and later, international) agricultural and agritech community to define common vocabularies to define farm data. Over time, the specifications have grown and aligned with other standardisation, specification, and controlled vocabulary projects. 
 
 ## Glossaries and Data Dictionaries
-The Farm Data Standards were not approved by any [international standards body](https://en.wikipedia.org/wiki/Standards_organization), to it is better to refer to them as agricultural glossaries or data dictionaries. Originally delivered as PDF files, the glossaries and data dictionaries are now maintained using GitHub and presented as markdown for easy maintenance by the community.
+The Farm Data Standards were not approved by any [international standards body](https://en.wikipedia.org/wiki/Standards_organization), so it is better to refer to them as agricultural glossaries or data dictionaries. Originally delivered as PDF files, the glossaries and data dictionaries are now maintained using GitHub and presented as markdown for easy maintenance by the community.
 
 * **Analysts** should consider using the data dictionaries for consistent naming and description of things (entities), observations or events, and data elements (attributes).
 * **Technology developers** may use the information in the design of new software or databases.
