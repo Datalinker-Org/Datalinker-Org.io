@@ -1,6 +1,7 @@
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /* @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700"); */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600;700&family=Plus+Jakarta+Sans:ital,wght@1,500&display=swap');
 
 
 html {
@@ -16,6 +17,7 @@ body {
 /*Overview styling*/
 h1, h2, h3, h4, h5, h6{
     font-weight: 600 !important;
+    font-family: 'Plus Jakarta Sans', sans-serif;
 }
 
 .row{
@@ -563,7 +565,7 @@ td, th {
 body {
     padding: 0;
     margin: 0;
-    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'IBM Plex Sans',"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 1.5;
     color: #1a1a1a;
