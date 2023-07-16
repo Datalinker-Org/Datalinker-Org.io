@@ -7,7 +7,7 @@ Often referred to as the New Zealand Farm Data Standards, these pages contain gl
 
 ## Common Glossary Overview
 
-<a href="https://www.datalinker.org/activity" class="btn" style="align-items:center">View the Common Glossary</a>
+<a href="https://www.datalinker.org/legal" class="btn" style="align-items:center">View the Common Glossary</a>
 
 The common glossary is conceptually organised into the three interelated areas that define an operating farm system:
 * **Biophysical** - a description of the soils, topography, hydrology, and historical and cultural human environments that help to understand the extent, capability, and inherent risks of the operating farm environment.
