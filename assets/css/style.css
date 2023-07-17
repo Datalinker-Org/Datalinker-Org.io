@@ -33,6 +33,7 @@ h6 {
     max-width: 1440px !important;
     padding: 2rem 2rem !important;
     margin: 0 auto !important;
+    border-bottom: 2px solid #1C6C8A;
 }
 
 .nav {
