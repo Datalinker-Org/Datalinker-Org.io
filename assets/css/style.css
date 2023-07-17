@@ -75,15 +75,12 @@ h6 {
     font-weight: 600;
 }
 
-.main-content table {
-    overflow: unset !important;
-}
-
 table {
     text-align: left;
     position: relative;
     border-collapse: collapse;
     color: #2a2a2a;
+    height: calc(100vh - 10vh) !important;
 }
 
 th {
