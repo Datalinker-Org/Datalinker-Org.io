@@ -27,12 +27,6 @@ h6 {
 }
 
 /*custom CSS*/
-.main-content {
-    max-width: 1440px !important;
-    padding: 2rem 0rem !important;
-    margin: 0 auto !important;
-}
-
 .nav {
     display: flex;
     flex-wrap: wrap;
@@ -52,7 +46,7 @@ h6 {
 }
 
 .page-header {
-    padding: 1rem 0 !important;
+    padding: 1rem 1rem !important;
     display: flex;
     align-items: center;
     margin: 0 auto;
@@ -61,7 +55,10 @@ h6 {
 }
 
 .main-content {
-    font-size: 0.95rem !important;
+    max-width: 1440px !important;
+    padding: 2rem 1rem !important;
+    margin: 0 auto !important;
+    font-size: 1rem !important;
     font-weight: 400 !important;
     line-height: 1.5 !important;
     letter-spacing: 0.05px !important;
@@ -832,8 +829,8 @@ a:hover {
     }
 
     .menu-btn+.menu-btn {
-        margin-top: 1rem;
-        margin-left: 0
+        /* margin-top: 1rem;
+        margin-left: 0 */
     }
 }
 
