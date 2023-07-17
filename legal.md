@@ -11,7 +11,7 @@
 <a href="/assets/files/Farm Data Terms & Definitions- updated list - Master 2023-02.xlsx" class="btn" style="align-items:center" download="">Download Glossary (.xlsx)</a>
 
 
-| Preferred Term 	| Synonyms 	| Definition  	| Data Type 	| Regulatory Requirement Context 	| Source 	| Data Specifications 	|
+| Term 	| Synonyms 	| Definition  	| Data Type 	| Regulatory Context 	| Source 	| Data Specifications 	|
 |---	|---	|---	|---	|---	|---	|---	|
 | Area Measurement 	| Area 	| Area of a surface determined from its geometrical dimensions, not including surface roughness. The area measurement specification shall include units (mandated or explicitly listed). International Units or UN-CEFACT units are preferred. 	| Object 	| RMA, Fresh water, Emissions, Biodiversity 	| [View](https://www.iso.org/obp/ui/#iso:std:iso:ts:20177:ed-1:v1:en:term:3.2){:target="_blank"} 	| [View](https://github.com/Datalinker-Org/Geospatial/blob/master/types/AreaMeasureType.json){:target="_blank"} 	|
 | Business Name 	| Organization name,  Enterprise name,  Venture name,  Company name,  Firm name   	| A name for a company, incorporated society, or other businesss entity. 	| String 	| RMA, Fresh water, Emissions, Biodiversity 	| [View](https://www.legislation.govt.nz/act/public/1993/0105/latest/DLM320108.html){:target="_blank"} 	| [View](https://schema.org/Organization){:target="_blank"} 	|
