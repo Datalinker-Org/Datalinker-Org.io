@@ -8,7 +8,7 @@
 <hr>
 
 <h2 id="datalinker">Outcome Metrics</h2>
-<p></p>
+<a href="/assets/files/Farm Data Terms & Definitions- updated list - Master 2023-02.xlsx" class="btn" style="align-items:center" download="">Download Glossary (.xlsx)</a>
 
 | Term 	| Synonyms 	| Definition  	| Data Type 	| Regulatory Context 	| Source 	| Data Specifications 	|
 |---	|---	|---	|---	|---	|---	|---	|

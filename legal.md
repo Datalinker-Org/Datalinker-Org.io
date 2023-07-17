@@ -7,8 +7,8 @@
 </ul>
 <hr>
 
-<h2 id="datalinker">Activity</h2>
-<a href="/assets/files/Farm Data Terms & Definitions- updated list - Master 2023-02.xlsx" class="btn" style="align-items:center" download="">Download Glossary (.xlxx)</a>
+<h2 id="datalinker">Legal</h2>
+<a href="/assets/files/Farm Data Terms & Definitions- updated list - Master 2023-02.xlsx" class="btn" style="align-items:center" download="">Download Glossary (.xlsx)</a>
 
 
 | Preferred Term 	| Synonyms 	| Definition  	| Data Type 	| Regulatory Requirement Context 	| Source 	| Data Specifications 	|

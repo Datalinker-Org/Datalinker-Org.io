@@ -7,8 +7,8 @@
 </ul>
 <hr>
 
-<h2 id="datalinker">Activity</h2>
-<p></p>
+<h2 id="datalinker">Management</h2>
+<a href="/assets/files/Farm Data Terms & Definitions- updated list - Master 2023-02.xlsx" class="btn" style="align-items:center" download="">Download Glossary (.xlsx)</a>
 
 | Term 	| Synonyms 	| Definition  	| Data Type 	| Regulatory Context 	| Source 	| Data Specifications 	|
 |---	|---	|---	|---	|---	|---	|---	|
