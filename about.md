@@ -6,7 +6,7 @@ farmers and to be used more effectively by solution and service providers.</p>
 <p>More effective use of data through consistent collection, delivery, and access should save farmers time and drive innovative new 
 insights and technology solutions. The farm data standards were developed with the participation of a wide cross-section of industry organisations, through an iterative process that involved circulation of drafts and feedback from participants. A steering group of industry representatives provided oversight and mandate for the process.</p>
 
-## Development Funding
+<h2>Development Funding</h2>
 <p>The initial funding for development of the Farm Data Standards and DataLinker was provided through the following New Zealand 
 organisations:</p>
 <ul>
@@ -25,7 +25,7 @@ Progressive Meats, Rabobank, and Silver Fern Farms.</li>
 </div>
 
 
-## License and Terms of Use
+<h2>License and Terms of Use</h2>
 <p>The Farm Data Standards and DataLinker are Copyright 2012-2020 DairyNZ & Beef+Lamb New Zealand.</p>
 <p>Licensed under the Apache License, Version 2.0 (the "License"); </p>
 <p>You may not use these specifications except in compliance with the License.</p>

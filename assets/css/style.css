@@ -94,12 +94,9 @@ th {
 .row {
     content: "";
     clear: both;
-    display: flex;
     align-items: center;
-    /*  margin: 0 auto;
+    margin: 0 auto;
     position: relative;
-    display: flex;
-    flex-wrap: wrap; */
 }
 
 [class*="col-"] {
