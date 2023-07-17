@@ -31,7 +31,7 @@ h6 {
 .main-content,
 .page-header {
     max-width: 1440px !important;
-    padding: 2rem 2rem !important;
+    padding: 2rem 0rem !important;
     margin: 0 auto !important;
     border-bottom: 2px solid #1C6C8A;
 }
@@ -40,6 +40,10 @@ h6 {
     /*background-color: #d9e6f2;*/
     /* border-bottom: 3px solid #186B89;*/
     text-align: right; 
+}
+
+.logo > *{
+    padding: 10px;
 }
 
 .logo {
@@ -52,6 +56,7 @@ h6 {
     align-items: center;
     margin: 0 auto;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .main-content {
