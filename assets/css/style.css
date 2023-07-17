@@ -42,7 +42,7 @@ h6 {
 }
 
 .logo {
-    max-width: 64rem;
+    /* max-width: 64rem; */
 }
 
 .page-header {
@@ -923,10 +923,10 @@ a:hover {
     }
 
     .logo {
-        max-width: 64rem;
+        /* max-width: 64rem;
         padding: 2rem 2rem;
         margin: 0 auto;
-        font-size: 1.1rem;
+        font-size: 1.1rem; */
     }
 }
 
@@ -937,8 +937,8 @@ a:hover {
     }
 
     .logo {
-        padding: 2rem 1rem;
-        font-size: 1.1rem;
+        /* padding: 2rem 1rem;
+        font-size: 1.1rem; */
     }
 }
 
@@ -949,8 +949,8 @@ a:hover {
     }
 
     .logo {
-        padding: 2rem 1rem;
-        font-size: 1rem;
+        /* padding: 2rem 1rem;
+        font-size: 1rem; */
     }
 }
 
