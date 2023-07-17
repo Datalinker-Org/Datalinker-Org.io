@@ -1,3 +1,4 @@
+<div class="row">
 # About DataLinker and the Farm Data Standards
 The Farm Data Standards and DataLinker were developed as separate initiatives to help agricultural data be more accessible for 
 farmers and to be used more effectively by solution and service providers.
@@ -14,12 +15,13 @@ Progressive Meats, Rabobank, and Silver Fern Farms.
 * Developed and maintained by Map of Agriculture NZ (Rezare Systems) on behalf of the industry.
 * Ongoing management through AgriTech New Zealand
 
-
+<div class="org-logo">
 <img src="images/DairyNZ-Limited-logo.png" alt="DairyNZ">
 <img src="images/RMPP-logo.png" alt="RMPP">
 <img src="images/MPI-logo.png" alt="MPI">
-<img src="images/AgriTech-NZ-Logo.png" alt="AgriTech NZ" height="120">
-<img src="images/rezare.png" alt="Rezare" height="120">
+<img src="images/AgriTech-NZ-Logo.png" alt="AgriTech NZ" >
+<img src="images/rezare.png" alt="Rezare">
+</div>
 
 
 ## License and Terms of Use
@@ -31,3 +33,4 @@ Progressive Meats, Rabobank, and Silver Fern Farms.
 <p>Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, 
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.</p>
 <p>See the License for the specific language governing permissions and limitations under the License.</p>
+</div>
