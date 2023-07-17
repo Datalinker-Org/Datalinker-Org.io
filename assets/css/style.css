@@ -2,6 +2,7 @@
 /* @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700"); */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600;700&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@300;400;500;700&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap');
 
 
 
@@ -19,7 +20,40 @@ body {
 h1, h2, h3, h4, h5, h6{
     font-weight: 600 !important;
     font-family: 'Plus Jakarta Sans', sans-serif;
+    letter-spacing: -0.5px;
 }
+
+/*custom CSS*/
+.menu, .logo, .main-content{
+    max-width: 1440px;
+}
+
+.main-content img {
+    max-width: 720px;
+}
+
+.btn{
+    font-weight: 600;
+}
+
+.main-content table{
+    overflow: unset !important;
+}
+
+table {
+    text-align: left;
+    position: relative;
+    border-collapse: collapse; 
+}
+
+th {
+    background: #f1f1f1;
+    position: sticky;
+    top: 0; /* Don't forget this, required for the stickiness */
+}
+
+/*custom CSS ends*/
+
 
 .row{
     content: "";
@@ -566,7 +600,7 @@ td, th {
 body {
     padding: 0;
     margin: 0;
-    font-family: 'IBM Plex Sans',"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Inter Tight', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 1.5;
     color: #1a1a1a;
