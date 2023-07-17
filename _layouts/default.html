@@ -14,6 +14,19 @@
   {% endif %}
   <meta charset="UTF-8">
 
+  <script>
+    // Add active class to the current button (highlight it)
+    var header = document.getElementById("menu");
+    var btns = header.getElementsByClassName("menu-btn");
+    for (var i = 0; i < btns.length; i++) {
+      btns[i].addEventListener("click", function () {
+        var current = document.getElementsByClassName("active");
+        current[0].className = current[0].className.replace(" active", "");
+        this.className += " active";
+      });
+    }
+  </script>
+
   {% seo %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#157878">
@@ -26,7 +39,7 @@
   <header class="page-header" role="banner">
     <div class="nav">
       <div id="menu">
-        <a href="https://datalinker-org.github.io/Datalinker-Org.io/" class="menu-btn active">Home</a>
+        <a href="https://datalinker-org.github.io/Datalinker-Org.io/" class="menu-btn">Home</a>
         <!-- <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a> -->
         <!-- <a href="https://app.datalinker.org/app" class="menu-btn">Go to the DataLinker App</a> -->
         <a href="https://datalinker-org.github.io/Datalinker-Org.io/about" class="menu-btn">About</a>
@@ -54,19 +67,6 @@
           Pages</a>.</span>
     </footer>
   </main>
-  
-  <script>
-    // Add active class to the current button (highlight it)
-    var header = document.getElementById("menu");
-    var btns = header.getElementsByClassName("menu-btn");
-    for (var i = 0; i < btns.length; i++) {
-      btns[i].addEventListener("click", function() {
-      var current = document.getElementsByClassName("active");
-      current[0].className = current[0].className.replace(" active", "");
-      this.className += " active";
-      });
-    }
-    </script>
 </body>
 
 </html>
