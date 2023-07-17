@@ -797,7 +797,7 @@ a:hover {
     /*rgba(255,255,255,0.7);*/
 }
 
-.menu-btn:hover, .menu.active {
+.menu-btn:hover, .active {
     color: white;
     /*rgba(255,255,255,0.8);*/
     text-decoration: none;

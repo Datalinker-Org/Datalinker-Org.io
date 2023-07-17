@@ -23,7 +23,6 @@
 
 <body>
 
-
   <header class="page-header" role="banner">
     <div class="nav">
       <div id="menu">
@@ -55,19 +54,19 @@
           Pages</a>.</span>
     </footer>
   </main>
+  
   <script>
     // Add active class to the current button (highlight it)
     var header = document.getElementById("menu");
-    var navs = header.getElementsByClassName("menu-btn");
+    var btns = header.getElementsByClassName("menu-btn");
     
-    for (var i = 0; i < nav.length; i++) {
-      navs[i].addEventListener("click", function () {
+    for (var i = 0; i < btns.length; i++) {
+      btns[i].addEventListener("click", function () {
         var current = document.getElementsByClassName("active");
         current[0].className = current[0].className.replace(" active", "");
         this.className += " active";
       });
     }
-    
   </script>
 </body>
 
