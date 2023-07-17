@@ -2,7 +2,6 @@
 <h1>About DataLinker and the Farm Data Standards</h1>
 <p>The Farm Data Standards and DataLinker were developed as separate initiatives to help agricultural data be more accessible for 
 farmers and to be used more effectively by solution and service providers.</p>
-
 <p>More effective use of data through consistent collection, delivery, and access should save farmers time and drive innovative new 
 insights and technology solutions. The farm data standards were developed with the participation of a wide cross-section of industry organisations, through an iterative process that involved circulation of drafts and feedback from participants. A steering group of industry representatives provided oversight and mandate for the process.</p>
 
@@ -15,6 +14,7 @@ organisations:</p>
 Progressive Meats, Rabobank, and Silver Fern Farms.</li>
 <li>Developed and maintained by Map of Agriculture NZ (Rezare Systems) on behalf of the industry.</li>
 <li>Ongoing management through AgriTech New Zealand</li>
+</ul>
 
 <div class="org-logo">
 <img src="images/DairyNZ-Limited-logo.png" alt="DairyNZ">

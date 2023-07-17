@@ -33,16 +33,12 @@ h6 {
 }
 
 .nav > *{
-    width: 33.33% !important;
+    width: auto !important;
     font-weight: 500;
 }
 
 .logo > *{
     padding: 10px;
-}
-
-.logo {
-    /* max-width: 64rem; */
 }
 
 .page-header {
@@ -88,6 +84,24 @@ th {
     position: sticky;
     top: 0;
     /* Don't forget this, required for the stickiness */
+}
+
+.org-logo{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.org-logo > * {
+    box-sizing: border-box;
+    width: 30%;
+    height: 100%;
+    margin: auto 0;
+    padding: 0.5rem;
+}
+@media screen and (max-width: 42em) {
+    .org-logo > * {
+        width: 100%;
+    }
 }
 
 /*custom CSS ends*/
