@@ -28,10 +28,11 @@ h6 {
 
 /*custom CSS*/
 .menu,
-.logo,
 .main-content,
 .page-header {
     max-width: 1440px !important;
+    padding: 2rem 2rem !important;
+    margin: 0 auto !important;
 }
 
 .nav {
@@ -45,11 +46,11 @@ h6 {
 }
 
 .page-header {
-    color: black;
-    /*#fff;*/
-    text-align: center
-        /*background-color: #1A5276; #159957; #13547a*/
-        /* background-image: linear-gradient(90deg, #dfeff7, #fff )*/
+    padding: 0;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: space-around;
 }
 
 .main-content {
