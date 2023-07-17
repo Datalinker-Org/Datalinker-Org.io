@@ -93,14 +93,15 @@ th {
 
 .org-logo > * {
     box-sizing: border-box;
-    width: 30%;
+    width: 25%;
     height: 100%;
     margin: auto 0;
     padding: 0.5rem;
 }
 @media screen and (max-width: 42em) {
     .org-logo > * {
-        width: 100%;
+        width: 60%;
+        margin: 0 auto;
     }
 }
 
@@ -111,6 +112,7 @@ th {
     align-items: center;
     margin: 0 auto;
     position: relative;
+    max-width: 900px;
 }
 
 [class*="col-"] {
