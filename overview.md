@@ -1,3 +1,4 @@
+<div class="row">
 # Glossaries and Data Dictionaries for Farm Data
 
 Often referred to as the New Zealand Farm Data Standards, these pages contain glossaries and data dictionaries for describing farm data. You can use these definitions when designing applications and databases, and to support interoperability between different systems. There are two complementary sets of data definitions:
@@ -50,3 +51,4 @@ Originally developed in Microsoft Word and PDFs, the data dictionaries were conv
 * [Animal Feed List](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Additional%20Value%20Lists/FarmDataStandards_Animal-Feed-List.md)
 * [URN Namespaces](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Information%20for%20Customers/FarmDataStandards_Namespaces-for-Farm-Data-Identifiers.md)
 
+</div>
