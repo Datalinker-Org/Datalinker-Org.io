@@ -1,19 +1,20 @@
 <div class="row">
-# About DataLinker and the Farm Data Standards
-The Farm Data Standards and DataLinker were developed as separate initiatives to help agricultural data be more accessible for 
-farmers and to be used more effectively by solution and service providers.
+<h1>About DataLinker and the Farm Data Standards</h1>
+<p>The Farm Data Standards and DataLinker were developed as separate initiatives to help agricultural data be more accessible for 
+farmers and to be used more effectively by solution and service providers.</p>
 
-More effective use of data through consistent collection, delivery, and access should save farmers time and drive innovative new 
-insights and technology solutions. The farm data standards were developed with the participation of a wide cross-section of industry organisations, through an iterative process that involved circulation of drafts and feedback from participants. A steering group of industry representatives provided oversight and mandate for the process.
+<p>More effective use of data through consistent collection, delivery, and access should save farmers time and drive innovative new 
+insights and technology solutions. The farm data standards were developed with the participation of a wide cross-section of industry organisations, through an iterative process that involved circulation of drafts and feedback from participants. A steering group of industry representatives provided oversight and mandate for the process.</p>
 
 ## Development Funding
-The initial funding for development of the Farm Data Standards and DataLinker was provided through the following New Zealand 
-organisations:
-* Part funded by New Zealand dairy farmers through DairyNZ and the Ministry for Primary Industries through the Primary Growth Partnership funding to the Transforming the Dairy Value Chain. 
-* Part funded also by the Red Meat Profit Partnership through its Primary Growth Partnership with Ministry for Primary Industries, Alliance Group, ANZCO Foods, ANZ Bank, Beef and Lamb New Zealand Limited (representing sheep and beef farmers), Blue Sky Meats, Greenlea Premier Meats,
-Progressive Meats, Rabobank, and Silver Fern Farms.
-* Developed and maintained by Map of Agriculture NZ (Rezare Systems) on behalf of the industry.
-* Ongoing management through AgriTech New Zealand
+<p>The initial funding for development of the Farm Data Standards and DataLinker was provided through the following New Zealand 
+organisations:</p>
+<ul>
+<li>Part funded by New Zealand dairy farmers through DairyNZ and the Ministry for Primary Industries through the Primary Growth Partnership funding to the Transforming the Dairy Value Chain. </li>
+<li>Part funded also by the Red Meat Profit Partnership through its Primary Growth Partnership with Ministry for Primary Industries, Alliance Group, ANZCO Foods, ANZ Bank, Beef and Lamb New Zealand Limited (representing sheep and beef farmers), Blue Sky Meats, Greenlea Premier Meats,
+Progressive Meats, Rabobank, and Silver Fern Farms.</li>
+<li>Developed and maintained by Map of Agriculture NZ (Rezare Systems) on behalf of the industry.</li>
+<li>Ongoing management through AgriTech New Zealand</li>
 
 <div class="org-logo">
 <img src="images/DairyNZ-Limited-logo.png" alt="DairyNZ">
