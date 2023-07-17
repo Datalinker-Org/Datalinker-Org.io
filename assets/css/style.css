@@ -28,8 +28,7 @@ h6 {
 
 /*custom CSS*/
 .menu,
-.main-content,
-.page-header {
+.main-content {
     max-width: 1440px !important;
     padding: 2rem 0rem !important;
     margin: 0 auto !important;
@@ -37,9 +36,13 @@ h6 {
 }
 
 .nav {
-    /*background-color: #d9e6f2;*/
-    /* border-bottom: 3px solid #186B89;*/
-    text-align: right; 
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nav > *{
+    width: 33.33% !important;
+    font-weight: 500;
 }
 
 .logo > *{
@@ -51,7 +54,7 @@ h6 {
 }
 
 .page-header {
-    padding: 0;
+    padding: 1rem 0;
     display: flex;
     align-items: center;
     margin: 0 auto;
