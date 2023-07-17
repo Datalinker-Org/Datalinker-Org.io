@@ -25,7 +25,15 @@ h1, h2, h3, h4, h5, h6{
 
 /*custom CSS*/
 .menu, .logo, .main-content{
-    max-width: 1440px;
+    max-width: 1440px !important;
+}
+
+.main-content {
+    font-size: 0.95rem;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.05px;
+    color: #2a2a2a;
 }
 
 .main-content img {
@@ -44,6 +52,7 @@ table {
     text-align: left;
     position: relative;
     border-collapse: collapse; 
+    color: #2a2a2a;
 }
 
 th {
