@@ -16,7 +16,7 @@ The common glossary is conceptually organised into the three interelated areas t
 
 Figure 1: Conceptual organisation
 
-<img src="images/Farm-data-model-1v2.png" width="50%" alt="Diagram of the conceptual organisation" class="diagram">
+<img src="images/Farm-data-model-1v2.png"  alt="Diagram of the conceptual organisation" class="diagram">
 
 You can also visualise data in a farm system as a set of overlapping spatial layers, all of which underpin or overlay the boundaries of an **operating farm**.
 * **Cadastral land parcels** define the legal areas of land ownership or use.
@@ -25,7 +25,7 @@ You can also visualise data in a farm system as a set of overlapping spatial lay
 
 Figure 2: Spatial layers
 
-<img src="images/MPI-farm-data-diagram-2.png" width="70%" alt="Diagram showing overlapping spatial layers" class="diagram">
+<img src="images/MPI-farm-data-diagram-2.png" alt="Diagram showing overlapping spatial layers" class="diagram">
 
 ## Data Dictionaries Overview
 
